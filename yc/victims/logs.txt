@@ -1,0 +1,1389 @@
+IP:105.112.208.221
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:instagram
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 06:58:40AM
+
+IP:105.112.208.221
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:linkedin
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 07:38:55AM
+
+IP:105.112.208.221
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:paypal
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 07:40:09AM
+
+IP:105.112.208.221
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:microsoft
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 08:05:04AM
+
+IP:105.112.208.221
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:sample
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 08:06:31AM
+
+IP:105.112.208.221
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:facebook_desktop_homepage
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 08:07:15AM
+
+IP:105.112.208.221
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:protonmail
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 08:07:42AM
+
+IP:105.112.210.226
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:netflix
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 19:26:07PM
+
+IP:105.112.210.226
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:yahoo
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 19:26:47PM
+
+IP:105.112.210.226
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:twitter_mobile
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 19:27:10PM
+
+IP:105.112.210.226
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:snapchat
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 19:27:34PM
+
+IP:105.112.210.226
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:pubg
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 19:28:47PM
+
+IP:105.112.210.226
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:messenger
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 19:29:34PM
+
+IP:105.112.210.226
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:linkedin
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 19:29:49PM
+
+IP:105.112.210.226
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:dropbox
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 19:30:10PM
+
+IP:105.112.210.226
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:instagram
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-14 19:30:50PM
+
+IP:105.112.211.234
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:sample
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-16 02:27:29AM
+
+IP:105.112.211.234
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:yahoo
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-16 02:28:00AM
+
+IP:105.112.41.149
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:My - Drive
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-16 03:19:41AM
+
+IP:105.112.41.149
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:My - Drive
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-11-16 03:24:15AM
+
+IP:77.68.40.43,162.158.159.6
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:My - Drive
+Bot:No
+Screen:1440x870
+TimeZone:Europe/Istanbul
+Date:2021-12-21 06:04:24AM
+
+IP:105.112.41.31,172.70.162.19
+User Agent:Mozilla/5.0 (Linux; Android 9; itel W6501) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36
+OS:Linux
+Browser:Safari
+Device:Mobile
+Referer:https://securefileshare.online/tokenid=g1e2n3e4s6i7s/
+Page:Falcontrade Docs My - Drive
+Bot:No
+Screen:360x800
+TimeZone:Africa/Lagos
+Date:2021-12-21 07:20:57AM
+
+IP:109.228.56.115,172.70.162.3
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:Falcontrade Docs My - Drive
+Bot:No
+IP:213.171.196.16,172.70.85.4
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:My - Drive
+Bot:No
+Screen:1440x870
+TimeZone:Europe/Istanbul
+Date:2021-12-21 07:54:55AM
+
+IP:105.112.41.31,172.70.85.4
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:My - Drive
+Bot:No
+Screen:943x509
+TimeZone:Etc/GMT 12
+Date:2021-12-21 08:51:04AM
+
+IP:105.112.40.52,172.70.162.3
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:My - Drive
+Bot:No
+Screen:938x509
+TimeZone:Etc/GMT 12
+Date:2021-12-21 09:33:16AM
+
+IP:105.112.40.52,172.70.85.7
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:My - Drive
+Bot:No
+Screen:938x509
+TimeZone:Etc/GMT 12
+Date:2021-12-21 09:34:07AM
+
+IP:105.112.40.52,172.70.162.3
+User Agent:Mozilla/5.0 (Linux; Android 9; itel W6501) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36
+OS:Linux
+Browser:Safari
+Device:Mobile
+Referer:https://securefileshare.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:My - Drive
+Bot:No
+Screen:360x800
+TimeZone:Africa/Lagos
+Date:2021-12-21 09:38:53AM
+
+IP:178.79.177.251,172.70.162.4
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://securefileshare.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:My - Drive
+Bot:No
+Screen:1440x870
+TimeZone:Europe/Istanbul
+Date:2021-12-21 09:42:15AM
+
+IP:45.78.48.6,172.70.233.1
+User Agent:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:My - Drive
+Bot:No
+IP:105.112.33.191,141.101.68.6
+User Agent:Mozilla/5.0 (Linux; Android 9; itel W6501) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36
+OS:Linux
+Browser:Safari
+Device:Mobile
+Referer:https://securefileshare.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:My - Drive
+Bot:No
+Screen:360x800
+TimeZone:Africa/Lagos
+Date:2021-12-23 07:42:21AM
+
+IP:77.111.246.37,172.70.174.8
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 OPR/82.0.4227.32
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:My - Drive?username=znwasike@gmail.com
+Bot:No
+Screen:1440x870
+TimeZone:Europe/Istanbul
+Date:2022-01-18 05:11:56AM
+
+IP:105.112.40.25,172.70.90.20
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 OPR/82.0.4227.32
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:My - Drive?username=znwasike@gmail.com
+Bot:No
+Screen:1440x870
+TimeZone:Europe/Istanbul
+Date:2022-01-18 18:56:45PM
+
+IP:129.205.124.95,162.158.159.10
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://onndrve.live/onedrivev2/tokenid=g1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+Screen:1718x1125
+TimeZone:America/Los_Angeles
+Date:2022-03-03 17:52:11PM
+
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://onndrve.live/onedrivev2/tokenid=g1e2n3e4s6i7s/
+Page:pin
+Bot:No
+Screen:1718x1125
+TimeZone:America/Los_Angeles
+Date:2022-03-03 17:52:26PM
+
+IP:129.205.124.95,172.70.90.
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://onndrve.live/onedrivev2/tokenid=g1e2n3e4s6i7s/
+Page:pin
+Bot:No
+IP:129.205.124.95,172.70.90.
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://onndrve.live/onedrivev2/tokenid=g1e2n3e4s6i7s/
+Page:otp.htm
+Bot:No
+Screen:1718x1125
+TimeZone:America/Los_Angeles
+Date:2022-03-03 17:55:27PM
+
+IP:129.205.124.95,172.70.162.16
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://onndrve.live/onedrivev2/tokenid=g1e2n3e4s6i7s/
+Page:auth.htm
+Bot:No
+IP:129.205.124.95,172.70.162.16
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://onndrve.live/onedrivev2/tokenid=g1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:104.131.206.14,173.245.52.22
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://onndrve.live/onedrivev2/tokenid=g1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:104.131.206.14,173.245.52.19
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://onndrve.live/onedrivev2/tokenid=g1e2n3e4s6i7s/
+Page:otp.htm
+Bot:No
+IP:104.131.206.14,173.245.52.19
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://onndrve.live/onedrivev2/tokenid=g1e2n3e4s6i7s/
+Page:otp.htm
+Bot:No
+Screen:1374x900
+TimeZone:America/Los_Angeles
+Date:2022-03-03 21:32:44PM
+
+IP:149.56.160.162
+User Agent:Mozilla/5.0 (compatible; Dataprovider.com)
+OS:Unknown OS
+Browser:Unknown Browser
+Device:Computer
+Page:Sign in (4)
+Bot:Yes
+IP:149.56.160.162
+User Agent:Mozilla/5.0 (compatible; Dataprovider.com)
+OS:Unknown OS
+Browser:Unknown Browser
+Device:Computer
+Page:Sign in
+Bot:Yes
+IP:51.222.253.1
+User Agent:Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+OS:Unknown OS
+Browser:Unknown Browser
+Device:Computer
+Page:Sign in (4)
+Bot:Yes
+IP:51.222.253.5
+User Agent:Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+OS:Unknown OS
+Browser:Unknown Browser
+Device:Computer
+Page:Sign in
+Bot:Yes
+IP:51.222.253.4
+User Agent:Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+OS:Unknown OS
+Browser:Unknown Browser
+Device:Computer
+Page:auth.htm
+Bot:Yes
+IP:51.222.253.16
+User Agent:Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+OS:Unknown OS
+Browser:Unknown Browser
+Device:Computer
+Page:otp.htm
+Bot:Yes
+IP:51.222.253.15
+User Agent:Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+OS:Unknown OS
+Browser:Unknown Browser
+Device:Computer
+Page:pin
+Bot:Yes
+IP:51.222.253.18
+User Agent:Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+OS:Unknown OS
+Browser:Unknown Browser
+Device:Computer
+Page:Sign in (4)
+Bot:Yes
+IP:51.222.253.9
+User Agent:Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+OS:Unknown OS
+Browser:Unknown Browser
+Device:Computer
+Page:Sign in
+Bot:Yes
+IP:51.222.253.1
+User Agent:Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+OS:Unknown OS
+Browser:Unknown Browser
+Device:Computer
+Page:auth.htm
+Bot:Yes
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid%3Dg1e2n3e4s6i7s/
+Page:pin
+Bot:No
+Screen:1378x900
+TimeZone:America/Los_Angeles
+Date:2022-03-05 15:58:49PM
+
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid%3Dg1e2n3e4s6i7s/
+Page:pin
+Bot:No
+Screen:1378x900
+TimeZone:America/Los_Angeles
+Date:2022-03-05 16:24:06PM
+
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid=g1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+Screen:1378x900
+TimeZone:America/Los_Angeles
+Date:2022-03-06 03:17:15AM
+
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid=g1e2n3e4s6i7s/
+Page:pin
+Bot:No
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid=g1e2n3e4s6i7s/
+Page:otp.htm
+Bot:No
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid=g1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid=g1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid=g1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid=g1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:3.17.210.127
+User Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:70.0) Gecko/20100101 Firefox/70.0
+OS:Mac OS X
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:3.17.210.127
+User Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:70.0) Gecko/20100101 Firefox/70.0
+OS:Mac OS X
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid%3Dg1e2n3e4s6i7s/
+Page:pin
+Bot:No
+IP:3.17.210.127
+User Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:70.0) Gecko/20100101 Firefox/70.0
+OS:Mac OS X
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid%3Dg1e2n3e4s6i7s/
+Page:auth.htm
+Bot:No
+IP:3.17.210.127
+User Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:70.0) Gecko/20100101 Firefox/70.0
+OS:Mac OS X
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid%3Dg1e2n3e4s6i7s/
+Page:otp.htm
+Bot:No
+IP:197.210.55.157
+User Agent:Mozilla/5.0 (Linux; Android 11; TECNO CG6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+OS:Linux
+Browser:Safari
+Device:Mobile
+Referer:https://roqquhq-live.com/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+Screen:360x800
+TimeZone:Africa/Lagos
+Date:2022-03-06 20:03:53PM
+
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid=g1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Page:pin
+Bot:No
+Screen:1378x900
+TimeZone:America/Los_Angeles
+Date:2022-03-06 22:46:22PM
+
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Page:pin
+Bot:No
+Screen:1378x900
+TimeZone:America/Los_Angeles
+Date:2022-03-06 23:07:57PM
+
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Page:pin
+Bot:No
+Screen:1378x900
+TimeZone:America/Los_Angeles
+Date:2022-03-06 23:11:17PM
+
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid=g1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Page:pin
+Bot:No
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid=g1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+Screen:1378x900
+TimeZone:America/Los_Angeles
+Date:2022-03-06 23:30:07PM
+
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Page:pin
+Bot:No
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid=g1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid=g1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:129.205.124.95
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://roqquhq-live.com/tokenid=g1e2n3e4s6i7s/
+Page:pin
+Bot:No
+IP:197.210.79.86
+User Agent:Mozilla/5.0 (iPhone; CPU iPhone OS 15_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Mobile/15E148 Safari/604.1
+OS:Mac OS X
+Browser:Safari
+Device:Mobile
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:129.205.124.103
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:129.205.124.103
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+Screen:1378x900
+TimeZone:America/Los_Angeles
+Date:2022-03-27 19:26:38PM
+
+IP:129.205.124.103
+User Agent:Mozilla/5.0 (Linux; Android 10; Infinix X657) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.25 Mobile Safari/537.36
+OS:Linux
+Browser:Safari
+Device:Mobile
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+Screen:360x800
+TimeZone:Africa/Lagos
+Date:2022-03-27 20:49:29PM
+
+IP:129.205.124.103
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.42
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+Screen:1378x900
+TimeZone:America/Los_Angeles
+Date:2022-03-27 20:50:12PM
+
+IP:102.91.5.33
+User Agent:Mozilla/5.0 (iPhone; CPU iPhone OS 15_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Mobile/15E148 Safari/604.1
+OS:Mac OS X
+Browser:Safari
+Device:Mobile
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+Screen:428x926
+TimeZone:Africa/Lagos
+Date:2022-03-27 20:55:55PM
+
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:auth.htm
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:auth.htm
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:loader
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:loader
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:loader2
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:loader2
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:loader3
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:loader3
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:m-wait.gif
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:m-wait.gif
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:m-wait.zip
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:m-wait.zip
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:otp.htm
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:otp.htm
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:pin
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:pin
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:verify.htm
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:verify.htm
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:verify.zip
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:verify.zip
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:wait2
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:wait2
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:auth.htm
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:auth.htm
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:loader
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:loader
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:loader2
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:loader2
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:m-wait.gif
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:m-wait.gif
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:m-wait.zip
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:m-wait.zip
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:otp.htm
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:otp.htm
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:pin
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:pin
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:verify.htm
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:verify.htm
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:verify.zip
+Bot:No
+IP:51.210.182.66
+User Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1
+OS:Windows 7
+Browser:Safari
+Device:Computer
+Page:verify.zip
+Bot:No
+IP:129.205.124.103
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:129.205.124.103
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:verify.htm
+Bot:No
+Screen:2756x1800
+TimeZone:America/Los_Angeles
+Date:2022-03-28 02:28:30AM
+
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:Sign in
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:auth.htm
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:auth.htm
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:loader
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:loader
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:loader2
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:loader2
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:loader3
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:loader3
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:m-wait.gif
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:m-wait.gif
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:m-wait.zip
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:m-wait.zip
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:otp.htm
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:otp.htm
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:pin
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:pin
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:verify.htm
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:verify.htm
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:verify.zip
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:verify.zip
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:wait2
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:wait2
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:auth.htm
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:auth.htm
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:loader
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:loader
+Bot:No
+IP:54.36.162.160
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+OS:Windows 10
+Browser:Safari
+Device:Computer
+Page:m-wait.gif
+Bot:No
+IP:129.205.124.103
+User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+OS:Windows 10
+Browser:Firefox
+Device:Computer
+Referer:https://liveapp-roqqu.online/tokenid%3Dg1e2n3e4s6i7s/
+Page:index
+Bot:No
